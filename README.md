@@ -2,9 +2,9 @@
 <img src="https://github.com/M4D-S0UL/M4D-S0UL/blob/main/m4d.gif"/><br>
 </h1>
 <h3>I am alone hacker</h2>
-<br>
-Skills: HTML / PYTHON / PHP
-<br>
+
+<p>Skills: HTML / PYTHON / PHP</p>
+
 
 - 👋 Hi, I’m @M4D-S0UL
 - 🔭 I’m currently working on Facebook
