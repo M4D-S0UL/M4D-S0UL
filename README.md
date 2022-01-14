@@ -2,10 +2,15 @@
 <img src="https://github.com/M4D-S0UL/M4D-S0UL/blob/main/m4d.gif"/><br>
 </h1>
 <h3>I am alone hacker</h2>
+<br>
+Skills: HTML / PYTHON / PHP
+<br>
 
-I am a normal person.🤫
-I am a simple coder.🤫
-I am a YouTuber.🤨
-I am a student. 😍
-I am a black man in a white mask.😎
-I am a noob Hacker.😘
+- 👋 Hi, I’m @M4D-S0UL
+- 🔭 I’m currently working on Facebook
+- 🌱 I’m currently learning Sololearn
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with Php
+- 💬 Ask me about Python
+- 📫 How to reach me: Try and try
+
