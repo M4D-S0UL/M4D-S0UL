@@ -17,4 +17,4 @@
 <img src="https://github.com/M4D-S0UL/M4D-S0UL/blob/main/github.png" width="50" hidden="50" /> <img src="https://github.com/M4D-S0UL/M4D-S0UL/blob/main/Facebook.png" width="50" hidden="50" />
 <br>
 
-<img src="https://github.com/M4D-S0UL/M4D-S0UL/blob/main/a.png" width="10" hidden="20" />
+<img src="https://github.com/M4D-S0UL/M4D-S0UL/blob/main/a.png" />
