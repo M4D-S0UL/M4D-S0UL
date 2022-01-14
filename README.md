@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on Facebook
 - 🌱 I’m currently learning Sololearn
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with Php
 - 💬 Ask me about Python
 - 📫 How to reach me: Try and try
 
